@@ -1,5 +1,5 @@
 {
-  "discord_token": "YOUR_DISCORD_TOKEN",
+  "discord_token": "https://discord.com/developers/applications/759258625352138782/information",
   "prefix": "$",
   "allow_more_than_200_chars": "yes"
 }
